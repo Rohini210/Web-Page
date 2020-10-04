@@ -8,9 +8,10 @@ export default function Search() {
     <div className="end_main">
       <div className="sub_end">
         <div style={{ margin: "0" }}>
-          <form>
-            <input type="text"></input>
-          </form>
+          <div className="input_icons">
+              <i className="fas fa-search icon" style={{color:"black"}}></i>
+              <input type="text" className="input-field"></input>
+          </div>
         </div>
         <div>
           <img className="E_i" src={bell} style={{ margin: "0" }} />
