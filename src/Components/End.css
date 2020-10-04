@@ -1,0 +1,61 @@
+.end_main {
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0
+}
+
+.sub_end {
+    display: flex;
+    flex-direction: row;
+    width: 27em;
+    margin-left: 0;
+}
+
+input {
+    color: #F5F5F7;
+    background-color: #F5F5F7;
+    border: none;
+    border-radius: 15px;
+    padding: 0.5em;
+    width: 20em;
+    margin: 0;
+}
+
+.E_i {
+    height: 1.5em;
+    width: 1.5em;
+    padding-top: 0;
+    margin-left: 2px;
+}
+
+.S {
+    color: black;
+    font-weight: bold;
+    background-color: #F5F5F7;
+    border-radius: 15px;
+    padding: 0.3em;
+    border: none;
+    margin-left: 3.5em;
+}
+
+.G_p {
+    color: black;
+    padding: 0;
+    margin: 0
+}
+
+.G_s {
+    color: black;
+    margin-right: 1em;
+}
+
+.G {
+    margin-left: 1.5em;
+    margin-top: 0
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+}

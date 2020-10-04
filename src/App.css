@@ -1,0 +1,45 @@
+* {
+    margin: 0.7em;
+    color: white;
+}
+
+.navbar {
+    background-color: black;
+    border-radius: 15%;
+}
+
+.one {
+    font-weight: 900;
+    font-size: 35px;
+    margin-left: 0.5em;
+}
+
+#p_one {
+    font-weight: 900;
+    font-size: 25px;
+    color: black;
+    padding-top: 2.5em;
+    margin-bottom: 0;
+}
+
+.p_two {
+    color: black;
+    margin-top: 0;
+}
+
+h4 {
+    color: black;
+    margin-bottom: 0;
+}
+
+.cou {
+    display: flex;
+    flex-direction: column;
+}
+
+.head_one {
+    border-radius: 15px;
+    background-color: #F5F5F7;
+    height: 9em;
+    width: 43em;
+}
