@@ -3,7 +3,8 @@
     width: auto;
     display: flex;
     flex-direction: column;
-    margin-left: 0
+    margin-left: 0;
+    /* float: left */
 }
 
 .sub_end {
@@ -48,7 +49,7 @@ input {
 
 .G_s {
     color: black;
-    margin-right: 1em;
+    margin-right: 2em;
 }
 
 .G {
@@ -62,4 +63,9 @@ hr.solid {
 
 .input_icons i {
     position: absolute;
+}
+
+td {
+    color: black;
+    padding: 0.7em;
 }

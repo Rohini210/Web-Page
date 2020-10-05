@@ -3,12 +3,12 @@
     width: auto;
     display: flex;
     flex-direction: column;
-    border-radius: 15px
+    border-radius: 15px;
 }
 
 .sub_div {
     height: 5em;
-    width: 43em;
+    width: 42em;
     background-color: #F5F5F7;
     display: flex;
     border-radius: 15px;

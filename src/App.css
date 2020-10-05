@@ -1,6 +1,7 @@
 * {
-    margin: 0.7em;
+    margin: 0.5em;
     color: white;
+    box-sizing: border-box;
 }
 
 .navbar {
@@ -41,5 +42,38 @@ h4 {
     border-radius: 15px;
     background-color: #F5F5F7;
     height: 9em;
-    width: 43em;
+    width: 42em;
+    display: flex;
+}
+
+@media only screen and (min-width: 600px) {
+    .row {
+        display: flex;
+    }
+    .col-1 {
+        width: 10%;
+    }
+    .col-6 {
+        width: 60%;
+    }
+    .col-4 {
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
+    .col-1 {
+        width: 100%;
+        height: 5em;
+    }
+    .col-6 {
+        width: 100%;
+    }
+    .col-4 {
+        width: 100%;
+    }
 }

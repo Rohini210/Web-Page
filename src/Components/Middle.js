@@ -6,6 +6,7 @@ import Continue from "./Continue"
 export default function Middle() {
   return (
     <div>
+      <br></br>
       <Head />
       <Continue />
       <br></br>
