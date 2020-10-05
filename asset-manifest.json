@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Web-Page/static/css/main.229054a2.chunk.css",
+    "main.js": "/Web-Page/static/js/main.03769bbf.chunk.js",
+    "main.js.map": "/Web-Page/static/js/main.03769bbf.chunk.js.map",
+    "runtime-main.js": "/Web-Page/static/js/runtime-main.16ca8135.js",
+    "runtime-main.js.map": "/Web-Page/static/js/runtime-main.16ca8135.js.map",
+    "static/js/2.7cc6d499.chunk.js": "/Web-Page/static/js/2.7cc6d499.chunk.js",
+    "static/js/2.7cc6d499.chunk.js.map": "/Web-Page/static/js/2.7cc6d499.chunk.js.map",
+    "index.html": "/Web-Page/index.html",
+    "precache-manifest.b08fb54210528bde8db25be46ec55b2c.js": "/Web-Page/precache-manifest.b08fb54210528bde8db25be46ec55b2c.js",
+    "service-worker.js": "/Web-Page/service-worker.js",
+    "static/css/main.229054a2.chunk.css.map": "/Web-Page/static/css/main.229054a2.chunk.css.map",
+    "static/js/2.7cc6d499.chunk.js.LICENSE.txt": "/Web-Page/static/js/2.7cc6d499.chunk.js.LICENSE.txt",
+    "static/media/Bell.jpg": "/Web-Page/static/media/Bell.f583096d.jpg",
+    "static/media/Boy.jpg": "/Web-Page/static/media/Boy.e92878ec.jpg",
+    "static/media/DP.jpg": "/Web-Page/static/media/DP.4f4fc4b1.jpg",
+    "static/media/pencil.jpg": "/Web-Page/static/media/pencil.e4ac6760.jpg",
+    "static/media/photograph.jpg": "/Web-Page/static/media/photograph.5af5db9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16ca8135.js",
+    "static/js/2.7cc6d499.chunk.js",
+    "static/css/main.229054a2.chunk.css",
+    "static/js/main.03769bbf.chunk.js"
+  ]
+}
